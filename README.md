@@ -17,7 +17,7 @@ Two models of publication are proposed for the STM32Cube embedded software:
 
 ## Description
 
-This **lan8742** MCU component repository is one element **common to all** STM32Cube MCU embedded software packages, providing the **LAN8742** BSP MEMS component part.
+This **lan8742** MCU component repository is one element **common to all** STM32Cube MCU embedded software packages, providing the **LAN8742** BSP Networking component part.
 
 ## License
 
